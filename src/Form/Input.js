@@ -22,7 +22,7 @@ const Input = ({
         placeholder={placeholder}
         onBlur={onBlur}
       />
-      {error && <p>{error}</p>}
+      {error && <p className="error">{error}</p>}
     </>
   );
 };
