@@ -15,6 +15,6 @@
 
 <h3>Screenshots de Apresentação</h3>
 
-<img src="public/assets/screenshots/1.png" width="250px" align="left" title="Screenshot 1"/><img src="public/assets/screenshots/2.png" width="250px"  align="left" title="Screenshot 2"/>
-<img src="public/assets/screenshots/3.png" width="250px" align="left"  margin-top="5px" title="Screenshot 3"/>
+<img src="public/assets/screenshots/1.png" width="500px" align="left" title="Screenshot 1"/><img src="public/assets/screenshots/2.png" width="500px"  align="left" title="Screenshot 2"/>
+<img src="public/assets/screenshots/3.png" width="500px" align="left"  margin-top="5px" title="Screenshot 3"/>
 
