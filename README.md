@@ -15,10 +15,8 @@
 
 <h3>Screenshots de Apresentação</h3>
 
-<h6>Início</h6>
+<h6>Início / Campos de preenchimento obrigatório / Preenchimento inválido</h6>
 <img src="public/assets/screenshots/1.png" width="500px" align="left" title="Screenshot 1"/>
-<h6>Campos de preenchimento obrigatório</h6>
 <img src="public/assets/screenshots/2.png" width="500px"  align="left" title="Screenshot 2"/>
-<h6>Preenchimento inválido</h6>
 <img src="public/assets/screenshots/3.png" width="500px" align="left"  margin-top="5px" title="Screenshot 3"/>
 
